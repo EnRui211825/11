@@ -1,0 +1,6 @@
+let randomnumber = randint(0, 100)
+game.splash("1 to 100:" + randomnumber)
+let otherrandom = randint(20, 30)
+game.splash("20 to 30" + otherrandom)
+let thirdrandom = randint(-10, 10)
+game.splash("-10 to 10" + thirdrandom)
